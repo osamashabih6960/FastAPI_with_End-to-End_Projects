@@ -8,7 +8,7 @@ FastAPI is a Python framework that simplifies the creation of APIs. With the inc
 
 ### API Management Market Growth
 
-![alt text](<001_Images/C:\Users\osama\OneDrive\Desktop\fastapi project\FastAPI_with_End-to-End_Projects\images\Fast apiii.jpeg>)
+![alt text](<https://lh3.googleusercontent.com/pw/AP1GczNs5cp9yro_KbbFDPmybyEhZERci130s0A8H_X7vq7Bx0ePX_YPEeCRbjtcH-irKsSo51GfJ0lgvAOwGo55votMnYZEsju2A8YP-9LmdBBIlfmcry4-D1NmjYXqLFutdZNvm_eeaZiXl191KWNbB9I3=w474-h280-s-no-gm?authuser=0>)
 
 According to recent reports, the API management market has been growing since 2022. As of 2024, it is valued at approximately 9 billion USD and is projected to reach 94 billion USD. This trend underscores the importance of learning API development, as it is a skill that will be highly beneficial in the near future. 
 
